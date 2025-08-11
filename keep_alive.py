@@ -1,0 +1,1 @@
+from flask import Flaskfrom threading import Threadapp = Flask('')u/app.route('/')def home():return "Hello. I am alive!"def run():app.run(host='0.0.0.0',port=8080)def keep\_alive():t = Thread(target=run)t.start()

@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[pull]
+	rebase = false
+[remote "origin"]
+	url = https://HmzAlt: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@github.com/HmzAlt/Bot-v5.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 ef4494072f16bd01b552c4220ec0a457a1a00e50 Hmz idk <5289317-hmzhax@users.noreply.replit.com> 1754942112 +0000	commit (initial): Initial commit
+ef4494072f16bd01b552c4220ec0a457a1a00e50 75c0e896d2f21438092c35e2c3bf2ad7dce2d210 probablyaskid <hmzisaqt@gmail.com> 1754948365 +0000	commit: git remote add origin https://github.com/HmzAlt/Bot-v2.git git branch -M main git push -u origin main
+75c0e896d2f21438092c35e2c3bf2ad7dce2d210 0000000000000000000000000000000000000000 probablyaskid <hmzisaqt@gmail.com> 1754948695 +0000	Branch: renamed refs/heads/main to refs/heads/main
+75c0e896d2f21438092c35e2c3bf2ad7dce2d210 75c0e896d2f21438092c35e2c3bf2ad7dce2d210 probablyaskid <hmzisaqt@gmail.com> 1754948695 +0000	Branch: renamed refs/heads/main to refs/heads/main
+75c0e896d2f21438092c35e2c3bf2ad7dce2d210 75c0e896d2f21438092c35e2c3bf2ad7dce2d210 probablyaskid <hmzisaqt@gmail.com> 1754948818 +0000	checkout: moving from main to dev
+75c0e896d2f21438092c35e2c3bf2ad7dce2d210 19e5296c8a5931286d63defa7fc59d0649fd59e8 probablyaskid <hmzisaqt@gmail.com> 1754948984 +0000	commit: Replaced hardcoded token with environment variable
+19e5296c8a5931286d63defa7fc59d0649fd59e8 19e5296c8a5931286d63defa7fc59d0649fd59e8 probablyaskid <hmzisaqt@gmail.com> 1754949139 +0000	checkout: moving from dev to initial-commit
+19e5296c8a5931286d63defa7fc59d0649fd59e8 c57933ed1f69941d5ecec340e202f3a43a414f45 probablyaskid <hmzisaqt@gmail.com> 1754949503 +0000	pull origin main --allow-unrelated-histories --no-rebase: Merge made by the 'ort' strategy.
+c57933ed1f69941d5ecec340e202f3a43a414f45 c57933ed1f69941d5ecec340e202f3a43a414f45 probablyaskid <hmzisaqt@gmail.com> 1754950056 +0000	checkout: moving from initial-commit to my-updates
+c57933ed1f69941d5ecec340e202f3a43a414f45 c57933ed1f69941d5ecec340e202f3a43a414f45 probablyaskid <hmzisaqt@gmail.com> 1754950102 +0000	checkout: moving from my-updates to update-from-replit
+c57933ed1f69941d5ecec340e202f3a43a414f45 0000000000000000000000000000000000000000 probablyaskid <hmzisaqt@gmail.com> 1754950357 +0000	Branch: renamed refs/heads/update-from-replit to refs/heads/main
+0000000000000000000000000000000000000000 c57933ed1f69941d5ecec340e202f3a43a414f45 probablyaskid <hmzisaqt@gmail.com> 1754950357 +0000	Branch: renamed refs/heads/update-from-replit to refs/heads/main
